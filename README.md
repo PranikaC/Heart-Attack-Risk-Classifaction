@@ -162,9 +162,9 @@ The decision tree is useful for comparison because it is simple to interpret, bu
 
 ```text
 compare/
-|-- lab7_heart_attack.ipynb
-|-- lab7_heart_attack.html
-|-- lab7_heart_attack_README.md
+|-- heart_attack_risk_classification.ipynb
+|-- heart_attack_risk_classification.html
+|-- README.md
 |-- heart_attack.csv
 |-- heart_attack_validation.csv
 |-- readme_assets/
@@ -175,7 +175,7 @@ compare/
 
 ## How to Run
 
-1. Open `lab7_heart_attack.ipynb` in Jupyter Notebook.
+1. Open `heart_attack_risk_classification.ipynb` in Jupyter Notebook.
 2. Make sure `heart_attack.csv` and `heart_attack_validation.csv` are in the same folder as the notebook.
 3. Run the notebook cells in order.
 
